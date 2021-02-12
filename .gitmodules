@@ -2,3 +2,8 @@
 	path = ingadhoc/product
 	url = git@github.com:ingadhoc/product.git
 	branch = 13.0
+
+[submodule "ingadhoc/purchase"]
+	path = ingadhoc/purchase
+	url = git@github.com:ingadhoc/purchase.git
+	branch = 13.0
