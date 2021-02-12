@@ -1,0 +1,4 @@
+[submodule "ingadhoc/product"]
+	path = ingadhoc/product
+	url = git@github.com:ingadhoc/product.git
+	branch = 13.0
